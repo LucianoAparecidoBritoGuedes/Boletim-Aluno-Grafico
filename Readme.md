@@ -10,7 +10,7 @@ Este script automatiza a tarefa de gerar boletim com médias de acordo com a mat
 ## Function
 
 A função principal do script é automatizar boletins de acordo com a materia lecionada pelo professor.
-Através dele será possível realizar as tarefas de CRUD de aluno:
+Através dele será possível realizar as tarefas de CRUD de aluno e notas:
 
 - Incluir
 - Alterar
